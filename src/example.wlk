@@ -22,3 +22,8 @@ object naye{
 	}	
 }
 
+object dario {
+	method queHicisteHoy() {
+		return "Pasear el perro"
+	}	
+}
