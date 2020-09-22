@@ -30,6 +30,8 @@ object NicoM{
 
 object suarezNicolas{
 	method queHicisteHoy() = "Laburar como un condenado :("
+	
+	}
 
 object agustin{
 	method queHicisteHoy(){
