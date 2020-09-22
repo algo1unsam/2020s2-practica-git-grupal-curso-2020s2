@@ -15,3 +15,11 @@ object naye{
 	}	
 }
 
+object emiliano {
+	
+	method queHicisteHoy(){
+		
+		return " trabajar y cursar algo1"
+	}
+}
+
