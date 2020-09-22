@@ -44,7 +44,16 @@ object naye{
 	}	
 }
 
-object nicoM{
+
+
+object suarezNicolas{
+	method queHicisteHoy() = "Laburar como un condenado :("
+	
+	}
+
+
+object nicoM {
+
 	method queHicisteHoy() {
 		return "Trabajar :)"
 	}	
@@ -63,6 +72,7 @@ object dario {
 object agustin {
 
 	method queHicisteHoy() {
+
 		return "Nada"
 	}
 
