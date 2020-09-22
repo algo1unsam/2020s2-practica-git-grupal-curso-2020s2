@@ -23,8 +23,27 @@ object rodo {
 	}
 }
 
+object juanse {
+	method queHicisteHoy() {
+		return "Laburar y estudiar :("
+	}
+}
+
 object naye{
 	method queHicisteHoy() {
 		return "estudiar"
 	}	
 }
+
+object nicoM{
+	method queHicisteHoy() {
+		return "Trabajar :)"
+	}	
+}
+
+object agustin{
+	method queHicisteHoy(){
+		return "Nada"
+	}
+}
+
