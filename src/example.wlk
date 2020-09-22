@@ -1,6 +1,5 @@
-/** First Wollok example */
-object wollok {
-	method howAreYou() {
-		return 'I am Wolloktastic!'
+object nahuel {
+	method queHicisteHoy() {
+		return "Estuve en reuniones todo el día"
 	}
 }
