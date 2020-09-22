@@ -22,6 +22,14 @@ object deby {
 
 }
 
+
+object rodo {
+	method queHicisteHoy() {
+		return "Trabajar y a la noche ver a River"
+	}
+}
+
+
 object juanse {
 
 	method queHicisteHoy() {
@@ -30,12 +38,10 @@ object juanse {
 
 }
 
-object naye {
-
+object naye{
 	method queHicisteHoy() {
 		return "estudiar"
-	}
-
+	}	
 }
 
 
@@ -50,9 +56,10 @@ object nicoM {
 
 	method queHicisteHoy() {
 		return "Trabajar :)"
-	}
+	}	
 
 }
+
 
 object dario {
 
@@ -70,6 +77,7 @@ object agustin {
 	}
 
 }
+
 
 object gonzo {
 
