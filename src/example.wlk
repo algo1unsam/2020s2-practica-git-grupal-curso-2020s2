@@ -6,6 +6,6 @@ object nahuel {
 
 object lucas {
 	method queHicisteHoy() {
-		return "Tuve la expo de UTN-FRD"
+		return "Durante el día no sé, después tuve la expo de UTN-FRD"
 	}	
 }
