@@ -10,6 +10,18 @@ object lucas {
 	}	
 }
 
+object deby {
+	method queHicisteHoy() {
+		return "Laburar"
+	}
+}
+
+object naye{
+	method queHicisteHoy() {
+		return "estudiar"
+	}	
+}
+
 object agustin{
 	method queHicisteHoy(){
 		return "Nada"
