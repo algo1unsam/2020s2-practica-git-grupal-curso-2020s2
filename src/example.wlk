@@ -17,7 +17,7 @@ object deby {
 }
 
 object juanse {
-	method queHicisteHoy(){
+	method queHicisteHoy() {
 		return "Laburar y estudiar :("
 	}
 }
