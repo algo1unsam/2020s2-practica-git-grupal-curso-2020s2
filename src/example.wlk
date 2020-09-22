@@ -26,7 +26,7 @@ object emiliano {
 	
 	method queHicisteHoy(){
 		
-		return " trabajar y cursar algo1"
+		return " trabajar y cursar algoritmos1"
 	}
 }
 
