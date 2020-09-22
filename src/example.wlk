@@ -15,3 +15,9 @@ object deby {
 		return "Laburar"
 	}
 }
+
+object rodo {
+	method queHicisteHoy() {
+		return "Trabajar y a la noche ver a River"
+	}
+}
