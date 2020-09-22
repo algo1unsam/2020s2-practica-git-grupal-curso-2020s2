@@ -9,3 +9,9 @@ object lucas {
 		return "Durante el día no sé, después tuve la expo de UTN-FRD"
 	}	
 }
+
+object deby {
+	method queHicisteHoy() {
+		return "Laburar"
+	}
+}
