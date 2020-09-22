@@ -14,4 +14,9 @@ object naye{
 		return "estudiar"
 	}	
 }
+object NicoM{
+	method queHicisteHoy() {
+		return "Trabajar :)"
+	}	
+}
 
