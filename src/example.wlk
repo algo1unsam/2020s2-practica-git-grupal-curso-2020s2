@@ -21,7 +21,19 @@ object naye{
 		return "estudiar"
 	}	
 }
+object NicoM{
+	method queHicisteHoy() {
+		return "Trabajar :)"
+	}	
+}
+
 
 object suarezNicolas{
 	method queHicisteHoy() = "Laburar como un condenado :("
+
+object agustin{
+	method queHicisteHoy(){
+		return "Nada"
+	}
+
 }
