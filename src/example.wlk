@@ -16,8 +16,27 @@ object deby {
 	}
 }
 
+<<<<<<< HEAD
 object juanse {
 	method queHicisteHoy() {
 		return "Laburar y estudiar :("
 	}
 }
+=======
+object naye{
+	method queHicisteHoy() {
+		return "estudiar"
+	}	
+}
+object NicoM{
+	method queHicisteHoy() {
+		return "Trabajar :)"
+	}	
+}
+
+object agustin{
+	method queHicisteHoy(){
+		return "Nada"
+	}
+}
+>>>>>>> branch 'master' of https://github.com/algo1unsam/2020s2-practica-git-grupal-curso-2020s2.git
