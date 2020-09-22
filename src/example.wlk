@@ -22,3 +22,6 @@ object naye{
 	}	
 }
 
+object suarezNicolas{
+	method queHicisteHoy() = "Laburar como un condenado :("
+}
