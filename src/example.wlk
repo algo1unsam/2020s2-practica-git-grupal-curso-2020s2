@@ -17,7 +17,7 @@ object lucas {
 object deby {
 
 	method queHicisteHoy() {
-		return "Laburar"
+		return "Ser mala con los alumnos(?"
 	}
 
 }
@@ -91,7 +91,7 @@ object emiliano {
 	
 	method queHicisteHoy(){
 		
-		return " trabajar y cursar algoritmos1"
+		return " no hago nada porque soy re piola"
 	}
 }
 
