@@ -5,7 +5,11 @@ object nahuel {
 	}
 	
 	method colorFavorito() {
-		return "Naranja"
+		return "Naranja"	
+	}
+	
+	method comidaFavorita() {
+		return "Milanesa (de pollo) con papas caritas :)"
 	}
 
 }
