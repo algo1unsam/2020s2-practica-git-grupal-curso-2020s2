@@ -85,6 +85,9 @@ object agustin {
 
 		return "Nada"
 	}
+	method colorFavorito(){
+		return "Azul y oro ;)"
+	}
 
 }
 
