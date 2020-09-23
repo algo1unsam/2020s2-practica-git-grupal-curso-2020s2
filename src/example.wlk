@@ -17,7 +17,7 @@ object lucas {
 	}
 
 	method colorFavorito() {
-		return "Verde"
+		return "Azul"
 	}
 }
 
