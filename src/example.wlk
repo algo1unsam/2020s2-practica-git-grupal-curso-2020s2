@@ -27,6 +27,9 @@ object deby {
 		return "Ser mala con los alumnos(?"
 	}
 
+	method colorFavorito() {
+		return "Violeta"
+	}
 }
 
 
