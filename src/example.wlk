@@ -4,6 +4,10 @@ object nahuel {
 		return "Estuve en reuniones todo el día y después di clases en UNSAM"
 	}
 	
+	method colorFavorito() {
+		return "Naranja"	
+	}
+	
 	method comidaFavorita() {
 		return "Milanesa (de pollo) con papas caritas :)"
 	}
@@ -16,6 +20,9 @@ object lucas {
 		return "Durante el día no sé, después tuve la expo de UTN-FRD"
 	}
 
+	method colorFavorito() {
+		return "Azul"
+	}
 }
 
 object deby {
@@ -24,6 +31,9 @@ object deby {
 		return "Ser mala con los alumnos(?"
 	}
 
+	method colorFavorito() {
+		return "Violeta"
+	}
 }
 
 
